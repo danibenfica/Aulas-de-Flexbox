@@ -1,4 +1,4 @@
-## Projeto Flexbox DIO - Considerações
+## Aulas de Flexbox - Considerações
 
 Este documento descreve a minha experiência de aprendizado no Projeto Flexbox da DIO (Digital Innovation One), um curso online que abrange o estudo aprofundado do Flexbox, proporcionando conhecimentos avançados sobre estilização e layout de páginas da web.
 
